@@ -1,17 +1,17 @@
 <!-- ========================= -->
-<!-- 🌊 DATA-FLOW WELCOME BANNER 🌊 -->
+<!-- 💾 ANIMATED MATRIX BANNER 💾 -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://media.giphy.com/media/NCjLeNVEzC2XG/giphy.gif" alt="Data Flow Animation" width="100%"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Matrix code rain" width="100%"/>
 </p>
 
-<h1 align="center" style="background: linear-gradient(90deg,#00DBDE,#FC00FF);-webkit-background-clip: text;color: transparent;">
+<h1 align="center" style="background: linear-gradient(90deg,#00DBDE,#FC00FF);-webkit-background-clip: text;color: transparent;" id="top">
   Hey there, I’m Abdugaffar 👋
 </h1>
 <h3 align="center">🧠 Data Scientist | 📈 Economic Analyst | 🗣️ Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=00FF00&center=true&width=450&lines=Crunching+Numbers...;Predicting+Markets...;Telling+Stories..." alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=00FF00&center=true&width=450&lines=⚙️+Crunching+Numbers...;💹+Predicting+Markets...;📚+Telling+Stories..." alt="typing"/>
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@
 ---
 
 <!-- ========================= -->
-<!-- 📊 GITHUB STATS & SNAKE 🐍 -->
+<!-- 📊 STATS, SNAKE, TROPHIES & STREAK 🔥 -->
 <!-- ========================= -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdugaffar&show_icons=true&theme=midnight-purple&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdugaffar&show_icons=true&theme=midnight-purple&count_private=true" alt="GitHub Stats"/>
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdugaffar/Abdugaffar/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Abdugaffar/Abdugaffar/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 <p align="center">
@@ -64,13 +64,31 @@
 
 ---
 
+## 💱 Live Market Tickers
+<p align="center">
+  <img src="https://img.shields.io/cryptocurrency/price/bitcoin?style=for-the-badge&logo=bitcoin" alt="Bitcoin Price"/>
+  <img src="https://img.shields.io/stock/prices/NASDAQ:GOOGL?style=for-the-badge&logo=google" alt="GOOGL Price"/>
+</p>
+
+---
+
 ## 🤖 Fun Widgets & Extras
 <p align="center">
   <!-- Random Programming Joke -->
-  <img src="https://readme-jokes.vercel.app/api" alt="Random joke" width="400px"/><br/>
-  <!-- Current UTC Time -->
-  <img src="https://img.shields.io/badge/UTC%20Time-<time>-blue?style=flat-square" alt="Current Time"/>
+  <img src="https://readme-jokes.vercel.app/api" alt="Random joke" width="400px"/>
+  <br/>
+  <!-- WakaTime Coding Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abdugaffar&layout=compact&theme=dark" alt="WakaTime Stats"/>
 </p>
+
+---
+
+## ✍️ Blog & Publications
+<details>
+  <summary>📄 Latest Articles</summary>
+  - [Time-Series in Economic Forecasting](https://medium.com/@Abdugaffar/…)  
+  - [ARIMA & Beyond: Demand Prediction](https://dev.to/Abdugaffar/…)  
+</details>
 
 ---
 
@@ -88,9 +106,16 @@
   <a href="https://www.kaggle.com/yourkaggle">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle"/>
   </a>
+  <a href="https://ko-fi.com/yourkofi">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20Coffee-FF813F?style=for-the-badge&logo=ko-fi" alt="Ko-fi"/>
+  </a>
 </p>
 
 ---
 
 > “Data is the new oil, but refined storytelling is the engine that drives insight.”  
 > — Abdugaffar
+
+<p align="right">
+  <a href="#top">Back to top ⬆️</a>
+</p>
